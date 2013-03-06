@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">上传文件</string>
+    <string name="app_name">AndroidTest</string>
+    <string name="ftp_adress">FTP Server IP</string>
+    <string name="ftp_port">Port</string>
+    <string name="ftp_username">UserName</string>
+    <string name="ftp_password">PassWord</string>
+</resources> 
